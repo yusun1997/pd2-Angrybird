@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird.png">image/Normal_Bird_1.png</file>
+        <file>image/bow.png</file>
+        <file alias="greenbird.png">image/BIRD_BOOMERANG_YELL.png</file>
+        <file alias="whitebird.png">image/BIRD_GREEN.png</file>
+        <file alias="blackbird.png">image/BIRD_GREY.png</file>
+        <file alias="yellowbird.png">image/BIRD_YELLOW.png</file>
+        <file alias="wood1.png">image/BLOCK_WOOD_1_4.png</file>
+        <file alias="wood2.png">image/BLOCK_WOOD_4X4_1.png</file>
+        <file alias="wood3.png">image/BLOCK_WOOD_10X1_1.png</file>
+        <file alias="pig1.png">image/PIGLETTE_SMALL_01_SMILE.png</file>
+        <file alias="pig2.png">image/PIGLETTE_MEDIUM_01_BLINK.png</file>
+        <file alias="pig3.png">image/PIGLETTE_BIG_01_SMILE.png</file>
+        <file alias="background">image/XMAS_2012_SKY.png</file>
+        <file alias="bgm.mp3">image/Georges Bizet - Les Toreadors from Carmen Suite No. 1.mp3</file>
+        <file alias="cut.mp3">image/cut.mp3</file>
+        <file alias="restart.png">image/BTN_TRACKPADMENU_RESTART_HIGHLIGHT.png</file>
+        <file alias="exit.png">image/ICON_EXIT.png</file>
+    </qresource>
+</RCC>
